@@ -11,7 +11,8 @@
         <td><img src="images/Brianna.png" alt="Brianna Ward profile picture"></td>
         <td><h1>Brianna Ward</h1>
          <p><em>Variety Steamer on <strong><a href="https://www.twitch.tv/succubaee">Twitch</a></em>.</strong></p>
-         <p>I am a black digital artist, video editor, and student web developer. I 💘 comic book movie's, and film analysis.</p></td>
+         <p>Design creative with 5 years of digital marketing expertise, and adaptability in customer-facing roles across
+multiple industries, passionate about connecting with people through the use of technology.</p></td>
       </tr>
     </table>
     <hr>
