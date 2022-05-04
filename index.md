@@ -5,18 +5,19 @@
     <title>Bri's Personal Site</title>
   </head>
 
-  <body>
+    <body>
     <table cellspacing="20">
-     <tr>
-      <td><img src="images/Brianna.png" alt="Brianna profile picture"></td>
-      <td>  <h1>Brianna Ward</h1>
-        <p><em>Variety Steamer on <strong><a href="https://www.twitch.tv/succubaee">Twitch</a></em>.</strong></p>
-        <p>I am a black digital artist, video editor, and student web developer. I 💘 comic book movie's, and film analysis.</p></td>
+      <tr>
+        <td><img src="images/Brianna.png" alt="Brianna Ward profile picture"></td>
+        <td>  <h1>Brianna Ward</h1>
+          <p><em>Variety Steamer on <strong><a href="https://www.twitch.tv/succubaee">Twitch</a></em>.</strong></p>
+          <p>I am a black digital artist, video editor, and student web developer. I 💘 comic book movie's, and film analysis.</p></td>
       </tr>
     </table>
     <hr>
     <h3>Education</h3>
     <ul>
+      <li>Udemy Front End Web Developent Bootcamp</li>
       <li>Communications Media Arts High School 2012 - 2016</li>
       <li>Ludington Magnet Middle School 2009 - 2011</li>
       <li>Old Redford Academy Elementary School 2005 - 2008</li>
