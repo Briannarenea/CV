@@ -16,7 +16,7 @@ multiple industries, passionate about connecting with people through the use of 
       </tr>
     </table>
     <hr>
-    <h3>Education</h3>
+    <h3>Education and Awards</h3>
     <ul>
       <li>Udemy Front End Web Developent Bootcamp</li>
       <li>Communications Media Arts High School 2012 - 2016</li>
@@ -31,17 +31,27 @@ multiple industries, passionate about connecting with people through the use of 
         <tr>
           <th>Dates</th>
           <th>Work</th>
+          <th>Employer</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td>2021-2022</td>
-          <td> Social Media Manager at DoFF</td>
+          <td>Social Media Marketing Manager</td>
+          <td>Diamond of Fire Fitness
         </tr>
         <tr>
-          <td>2017-2022</td>
-          <td>Freelance Video Editor</td>
+          <td>2021-2022</td>
+          <td>Administrative Assistant</td>
+          <td>Diamond of Fire Fitness</td>
+        <tr>
+          <td>2017-Present</td>
+          <td>Video Editor</td>
+          <td>Contracted
         </tr>
+        <td>2017-Present</td>
+        <td>Graphic Design</td>
+        <td>Freelance</td>
     </table>
     <hr>
     <h3>Skills</h3>
