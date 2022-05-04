@@ -7,10 +7,12 @@
 
   <body>
     <table cellspacing="20">
+     <tr>
       <td><img src="images/Brianna.png" alt="Brianna profile picture"></td>
       <td>  <h1>Brianna Ward</h1>
         <p><em>Variety Steamer on <strong><a href="https://www.twitch.tv/succubaee">Twitch</a></em>.</strong></p>
         <p>I am a black digital artist, video editor, and student web developer. I 💘 comic book movie's, and film analysis.</p></td>
+      </tr>
     </table>
     <hr>
     <h3>Education</h3>
