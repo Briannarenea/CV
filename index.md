@@ -5,7 +5,7 @@
     <title>Bri's Personal Site</title>
   </head>
 
-    <body>
+  <body>
     <table cellspacing="20">
       <tr>
         <td><img src="images/Brianna.png" alt="Brianna Ward profile picture"></td>
