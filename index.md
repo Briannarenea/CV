@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -10,9 +10,8 @@
       <tr>
         <td><img src="images/Brianna.png" alt="Brianna Ward profile picture"></td>
         <td>  <h1>Brianna Ward</h1>
-          <p><em>Variety Steamer on <strong><a href="https://www.twitch.tv/succubaee">Twitch</a></em>.</strong></p>
-          <p>I am a black digital artist, video editor, and student web developer. I 💘 comic book movie's, and film analysis.</p>
-        </td>
+         <p><em>Variety Steamer on <strong><a href="https://www.twitch.tv/succubaee">Twitch</a></em>.</strong></p>
+         <p>I am a black digital artist, video editor, and student web developer. I 💘 comic book movie's, and film analysis.</p></td>
       </tr>
     </table>
     <hr>
@@ -63,4 +62,4 @@
     <a href="hobbies.html">My Hobbies</a>
     <a href="contact me.html">Contact Me</a>
   </body>
-</html>
+  </html>
