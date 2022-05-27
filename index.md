@@ -3,27 +3,27 @@
   <head>
     <meta charset="utf-8">
     <title>Bri's Personal Site</title>
-    <link rel="stylesheet" href="css/styles.css">
   </head>
 
   <body>
     <table cellspacing="20">
       <tr>
         <td><img src="images/Brianna.png" alt="Brianna Ward profile picture"></td>
-        <td><h1>Brianna Ward</h1>
-         <p><em>Variety Steamer on <strong><a href="https://www.twitch.tv/succubaee">Twitch</a></em>.</strong></p>
-         <p>Design creative with 5 years of digital marketing expertise, and adaptability in customer-facing roles across
-multiple industries, passionate about connecting with people through the use of technology.</p></td>
+        <td>  <h1>Brianna Ward</h1>
+          <em> Artist by profession, Designer by choice, and traveller by heart</em>
+          <p>Future UX Designer, <em><strong><a href="https://bridoesdesign.wixsite.com/my-site">Freelance</a></em></strong> Brand Strategist, and Digital Creative </p>
+          <p> I am a black artist, video editor, student web developer and creative based in Detroit. I 💘 comic book movies, and film analysis.</p>
+        </td>
       </tr>
     </table>
     <hr>
-    <h3>Education and Awards</h3>
+    <h3>Courses and Workshops</h3>
     <ul>
       <li>Udemy Front End Web Developent Bootcamp</li>
-      <li>Communications Media Arts High School 2012 - 2016</li>
-      <li>Ludington Magnet Middle School 2009 - 2011</li>
-      <li>Old Redford Academy Elementary School 2005 - 2008</li>
-      <li>Charles Wright Academy of Arts and Science 2002 - 2004 </li>
+      <p>Developed by Dr. Angela Yu, this course teaches a variety of modern programming languages and web development skills to
+build original code</p>
+      <li>Introduction to User Experience Design by Georgia Institute of Technology</li>
+      <p> Developed by Dr. Rosa I. Arriaga, The focus of this course is to introduce the learner to User Experience (UX) Design, the techniques to gather information about a) what the user needs b)how to design and model interfaces based on these and then how to evaluate the design to ascertain that the user's goals are met.</p>
     </ul>
     <hr>
     <h3>Work Experience</h3>
@@ -32,46 +32,42 @@ multiple industries, passionate about connecting with people through the use of 
         <tr>
           <th>Dates</th>
           <th>Work</th>
-          <th>Employer</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td>2021-2022</td>
-          <td>Social Media Marketing Manager</td>
-          <td>Diamond of Fire Fitness
+          <td>September 2016 - Present</td>
+          <td>Video Editor & Graphic Designer</td>
         </tr>
         <tr>
-          <td>2021-2022</td>
-          <td>Administrative Assistant</td>
-          <td>Diamond of Fire Fitness</td>
-        <tr>
-          <td>2017-Present</td>
-          <td>Video Editor</td>
-          <td>Contracted
+          <td> Janurary 2022 - May 2022</td>
+          <td> Social Media and Marketing Manager</td>
         </tr>
-        <td>2017-Present</td>
-        <td>Graphic Design</td>
-        <td>Freelance</td>
     </table>
     <hr>
     <h3>Skills</h3>
     <table cellspacing=10>
       <tr>
-        <td>Video Editing</td>
+        <td>Adobe After Effects</td>
+        <td>⭐⭐⭐⭐⭐</td>
+        <td>Visual Storytelling</td>
         <td>⭐⭐⭐⭐⭐</td>
       </tr>
       <tr>
         <td>Graphic Design</td>
         <td>⭐⭐⭐⭐⭐</td>
+        <td>Sketching</td>
+        <td>⭐⭐⭐⭐⭐</td>
       </tr>
       <tr>
-        <td>Copywriting</td>
+        <td>Web Development</td>
         <td>⭐⭐⭐</td></td>
+        <td>Creative Writing</td>
+        <td>⭐⭐⭐</td>
       </tr>
     </table>
     <hr>
     <a href="hobbies.html">My Hobbies</a>
     <a href="contact me.html">Contact Me</a>
   </body>
-  </html>
+</html>
