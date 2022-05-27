@@ -3,16 +3,15 @@
   <head>
     <meta charset="utf-8">
     <title>Bri's Personal Site</title>
-    <link rel="stylesheet" href="css/styles.css">
   </head>
 
   <body>
     <table cellspacing="20">
       <tr>
-        <td><img src="images/Brianna.png" alt="Brianna Ward profile picture"></td>
+        <td><img src="images/Brianna.png" alt="Brianna profile picture"></td>
         <td><h1>Brianna Ward</h1>
-          <p><em> Artist by profession, Designer by choice, and traveller by heart</em></p>
-          <p>Future UX Designer, <em><strong><a href="https://bridoesdesign.wixsite.com/my-site">Freelance</a></em></strong> Brand Strategist, and Digital Creative </p>
+        <p><em> Artist by profession, Designer by choice, and traveller by heart</em></p>
+          <p>Future UX Designer, Brand Strategist, and <em><strong><a href="https://bridoesdesign.wixsite.com/my-site">Digital Creative</a></strong> .</em></p>
           <p> I am a black artist, video editor, student web developer and creative based in Detroit. I 💘 comic book movies, and film analysis.</p></td>
       </tr>
     </table>
