@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -61,7 +60,7 @@ build original code</p>
       </tr>
       <tr>
         <td>Web Development</td>
-        <td>⭐⭐⭐</td></td>
+        <td>⭐⭐⭐</td>
         <td>Creative Writing</td>
         <td>⭐⭐⭐</td>
       </tr>
