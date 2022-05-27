@@ -41,6 +41,10 @@ build original code</p>
           <td> Janurary 2022 - May 2022</td>
           <td> Social Media and Marketing Manager</td>
         </tr>
+        <tr>
+          <td>Janurary 2022 - May 2022</td>
+          <td>Administrative Assistant / Onboarding Specialist</td>
+        </tr>
       </tbody>
     </table>
     <hr>
