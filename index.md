@@ -42,6 +42,7 @@ build original code</p>
           <td> Janurary 2022 - May 2022</td>
           <td> Social Media and Marketing Manager</td>
         </tr>
+      </tbody>
     </table>
     <hr>
     <h3>Skills</h3>
